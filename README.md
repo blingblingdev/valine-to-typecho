@@ -1,4 +1,4 @@
-# valine-comment-to-typecho
+# Sync valine comments to typecho
 
 A script to sync valine style comments exported from Leancloud to typecho database.
 
